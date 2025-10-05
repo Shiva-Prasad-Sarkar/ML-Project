@@ -1,6 +1,8 @@
 
 # 🫀 Heart Disease Prediction using Machine Learning
 
+Access from : https://colab.research.google.com/drive/1xLjoSo8fz43E9Ss9bUmuHdancA9ly5J_?usp=sharing
+
 This repository contains the full pipeline and analysis for predicting heart disease using supervised and unsupervised machine learning techniques. Built as part of the CSE422 Artificial Intelligence course at BRAC University (Summer 2025), this project explores classification models and clustering methods on a real-world medical dataset.
 
 ## 📁 Project Structure
